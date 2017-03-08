@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    public double num, res, flag;
+    public int num, res, flag;
     public String symbol;
 
     public Button btn__0 ;
@@ -172,7 +172,7 @@ public class MainActivity extends AppCompatActivity {
                     flag = 1;
                     res = num;
                     num = 0;
-                    tv.setText("");
+                    tv.setText("0");
                     symbol = "+";
                 }
 
@@ -185,7 +185,7 @@ public class MainActivity extends AppCompatActivity {
                 if(flag==0) {
                     res = num;
                     num = 0;
-                    tv.setText("");
+                    tv.setText("0");
                     symbol = "*";
                 }
 
@@ -197,7 +197,7 @@ public class MainActivity extends AppCompatActivity {
                     if(flag==0) {
                         res = num;
                         num = 0;
-                        tv.setText("");
+                        tv.setText("0");
                         symbol = "-";
                     }
 
@@ -210,7 +210,7 @@ public class MainActivity extends AppCompatActivity {
                 if(flag==0) {
                     res = num;
                     num = 0;
-                    tv.setText("");
+                    tv.setText("0");
                     symbol = "/";
                 }
 
