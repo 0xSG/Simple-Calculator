@@ -8,6 +8,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+    //SGK Calculator
 
     public int num, res, flag;
     public String symbol;
