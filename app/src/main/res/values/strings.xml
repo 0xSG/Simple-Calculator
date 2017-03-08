@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WorkShopCalc</string>
+    <string name="button">Button</string>
+    <string name="_00000"></string>
+    <string name="star">*</string>
+    <string name="plus">+</string>
+    <string name="m">/</string>
+    <string name="f">-</string>
+</resources>
