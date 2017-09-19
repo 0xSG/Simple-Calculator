@@ -1,4 +1,4 @@
-# SimpleCalculator :milky_way:
+# SimpleCalculator :globe_with_meridians:
 
 Simple calculator app for Android.
 
