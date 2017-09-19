@@ -1,6 +1,4 @@
 # WorkShopCalc
 
-Simple calculator app for Android
-- **[](http://sgkcreations.blogspot.in)**
-- **IF YOU FOUND ANY BUGS PLEASE PULL REQUEST**
+Simple calculator app for Android **IF YOU FOUND ANY BUGS PLEASE [PULL REQUEST](/pulls)**
 
