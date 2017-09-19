@@ -1,4 +1,4 @@
-# SimpleCalculator
+# SimpleCalculator :milky_way:
 
 Simple calculator app for Android.
 
