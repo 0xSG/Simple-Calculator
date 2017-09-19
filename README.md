@@ -1,4 +1,4 @@
-# WorkShopCalc
+# SimpleCalculator
 
 Simple calculator app for Android.
 
